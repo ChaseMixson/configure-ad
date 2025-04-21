@@ -22,7 +22,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Installation Steps</h2>
 
-(https://github.com/user-attachments/assets/44ad84bb-e0fe-4663-9f1f-9a7adff930ef)
+<imgsrc="https://github.com/user-attachments/assets/44ad84bb-e0fe-4663-9f1f-9a7adff930ef"/>
 
 </p>
 <p>
